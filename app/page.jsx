@@ -1,6 +1,7 @@
 import Head from "next/head";
 import Image from "next/image";
 import Navbar from "./components/Navbar";
+import Main from "./components/Main";
 
 export default function Home() {
   return (
@@ -9,7 +10,8 @@ export default function Home() {
         <title>my Portfolio</title>
       </head>
       <body>
-        <Navbar></Navbar>
+        <Navbar />
+        <Main />
       </body>
     </div>
   );
