@@ -23,8 +23,7 @@ const Main = () => {
             <p>
               I'm a passionate web developer. I have a strong foundation in
               HTML, CSS, and JavaScript. I've already worked on a few small
-              projects(listed below). Currently polishing my skills in NEXTjs,
-              REACTjs and TAILWINDcss. I'm eager to collaborate, learn, and
+              projects(listed below). I'm eager to collaborate, learn, and
               contribute to web development projects. Excited to connect with
               fellow developers and industry professionals to grow together in
               building the web!"
